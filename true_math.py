@@ -5,8 +5,3 @@ def divide (first, second):
         return inf
     else:
         return first/second
-
-result1 = divide(49, 7)
-result2 = divide(15, 0)
-print(result1)
-print(result2)
